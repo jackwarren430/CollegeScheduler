@@ -35,4 +35,19 @@
     <string name="input_assignment_text">Input assignment</string>
     <string name="input_due_date_text">Input Due-Date</string>
     <string name="input_due_time_text">Input due time</string>
+
+    <string name="exam">Exam</string>
+    <string name="exam_location_Title">Exam Location:</string>
+    <string name="input_exam_location">Input exam Location</string>
+    <string name="input_date">Input Date</string>
+    <string name="date">Date:</string>
+    <string name="title">Title:</string>
+    <string name="input_title">Input Title</string>
+    <string name="submit">Submit</string>
+    <string name="input_time_of_day">Input Time Of Day</string>
+    <string name="time_of_day">Time of Day:</string>
+    <string name="day_of_the_week">Day of the week:</string>
+    <string name="input_day_of_week">Input Day Of Week</string>
+    <string name="input_course_id">Input Course ID</string>
+    <string name="course_id">Course ID:</string>
 </resources>
